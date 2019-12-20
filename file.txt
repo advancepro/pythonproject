@@ -1,0 +1,4 @@
+What is you name: betul
+How old are you: 19
+Where are you from: dcc
+What did you get on midterm exam: 88
